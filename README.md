@@ -1,6 +1,3 @@
-# happy
-Plataforma online para encontrar orfanatos e facilitar visitas. @Rocketseat
-
 <h2 align="center">
   <img src="https://img.shields.io/badge/Next%20Level%20Week-%233-00b8d3?style=for-the-badge" alt="Evento Next Level Week 3" />
   <img src="https://img.shields.io/badge/web%3F-ok-00b8d3?style=for-the-badge" alt="Sistema web Ok" />
